@@ -1,0 +1,5 @@
+dataset/*
+*.png
+*.pth
+.DS_Store
+dataset.*
